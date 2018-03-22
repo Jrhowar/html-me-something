@@ -1,0 +1,111 @@
+body {
+    background-color: #B2E3F4;
+}
+
+#logo {
+    height: 400px;
+}
+
+header {
+    font-family: fantasy;
+    font-size: 125%;
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-indent: 30pt;
+}
+h2 {
+    text-align: center;
+}
+#bane {
+    background-color: #F47922;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+#catwoman {
+    background-color: #6B303D;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+#harley-quinn {
+    background-color: #B71E10;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+#joker {
+    background-color: #816E8F;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+#killer-croc {
+    background-color: #7A89AC;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+#man-bat {
+    background-color: white;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+#mr-freeze {
+    background-color: white;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+#penguin {
+    background-color: #7848B6;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+#poison-ivy {
+    background-color: #FF1836;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+#riddler {
+    background-color: #97C16B;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+#scarecrow {
+    background-color: #210F03;
+    color: white;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+#two-face {
+    background-color: #A94169;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
